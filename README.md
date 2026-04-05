@@ -1,2 +1,21 @@
-# saucedemo-manual-testing-project
-[Em Desenvolvimento] Portfólio de QA Manual: Estratégia, Planejamento e Documentação de Testes (BDD/Gherkin) para o site Sauce Demo. Focado em garantir a qualidade através de cenários detalhados e casos de teste rigorosos.
+# 🚀 Projeto de Portfólio: QA Manual - Sauce Demo (Swag Labs)
+
+Este repositório contém a documentação completa de testes manuais realizados no site [Sauce Demo](https://www.saucedemo.com/). O objetivo é demonstrar habilidades em planejamento de testes, execução de cenários, geração de evidências e escrita em BDD (Gherkin).
+
+## 🛠️ O que foi desenvolvido:
+
+* **Plano de Teste:** Definição de escopo, prioridade e técnicas de teste. ([Ver Imagem](./cenarios_de_teste.png))
+* **Casos de Teste:** Escrita e execução de cenários detalhados com status de aprovação. ([Ver Imagem](./casos_de_teste.png))
+* **Escrita em BDD:** Documentação em Gherkin focada no comportamento do usuário. ([Ver Imagem](./bdd_teste.png))
+* **Documento Completo:** Planilha original com toda a estratégia de QA. ([Baixar Excel](./Plano_de_Testes_SauceDemo_Priscila.xlsx))
+
+## 🧪 Tecnologias e Ferramentas:
+
+* **Metodologia:** Testes de Caixa Preta (Manual).
+* **Documentação:** BDD (Gherkin), Casos de Teste e Markdown.
+* **Ferramentas:** Google Sheets, GitHub e Capturas de Tela (PrtSc).
+* **Ambiente:** Google Chrome / Windows.
+
+---
+
+*Este projeto faz parte do meu aprendizado contínuo em **Análise e Desenvolvimento de Sistemas (ADS)** e Quality Assurance. Sinta-se à vontade para explorar os arquivos!*
