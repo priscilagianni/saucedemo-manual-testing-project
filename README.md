@@ -18,4 +18,4 @@ Este repositório contém a documentação completa de testes manuais realizados
 
 ---
 
-*Este projeto faz parte do meu aprendizado contínuo em **Análise e Desenvolvimento de Sistemas (ADS)** e Quality Assurance. Sinta-se à vontade para explorar os arquivos!*
+*Este projeto faz parte do meu aprendizado contínuo em **Quality Assurance**. Sinta-se à vontade para explorar os arquivos!*
